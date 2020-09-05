@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "id": "1955",
+            "parent_exercise_id": null,
+            "name": "Contents",
+            "slug": "english-101__Contents",
+            "sequence_num": 1000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/english-101/Contents.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1956",
+            "parent_exercise_id": null,
+            "name": "Pehle 100 Words",
+            "slug": "english-101__Pehle_100_Words",
+            "sequence_num": 2000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/english-101/Pehle_100_Words.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1958",
+            "parent_exercise_id": null,
+            "name": "Introduction of Self",
+            "slug": "english-101__Introduction",
+            "sequence_num": 3000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/english-101/Introduction.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "1957",
+            "parent_exercise_id": null,
+            "name": "Nouns",
+            "slug": "english-101__Nouns",
+            "sequence_num": 4000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/english-101/Nouns.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "1960",
+            "parent_exercise_id": null,
+            "name": "Pronouns",
+            "slug": "english-101__Pronouns",
+            "sequence_num": 5000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/english-101/Pronouns.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "1980",
+            "parent_exercise_id": "1980",
+            "name": "Stories-Level One",
+            "slug": "english-101__Reading_Practice/stories",
+            "sequence_num": 6000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/english-101/Reading_Practice/stories.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1981",
+            "parent_exercise_id": null,
+            "name": "Common Mistakes While Speaking",
+            "slug": "english-101__Common_Mistakes_While_Speaking",
+            "sequence_num": 7000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/english-101/Common_Mistakes_While_Speaking.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1982",
+            "parent_exercise_id": null,
+            "name": "There Or Their",
+            "slug": "english-101__There_or_Their",
+            "sequence_num": 8000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/english-101/There_or_Their.md",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}
